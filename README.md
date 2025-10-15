@@ -1,2 +1,2 @@
 # AAI-BuiQuangThai
-Trí Tuệ Nhân Tạo Nâng cao 1111
+Trí Tuệ Nhân Tạo Nâng cao
