@@ -197,7 +197,7 @@ def plot_circle(order: List[int]):
 # ---------- Giao diện ----------
 
 st.set_page_config(page_title="Round-robin Seating", layout="wide")
-st.title("🪑 Xếp chỗ vòng tròn – By Bùi Quang Thái")
+st.title("🪑 Xếp chỗ vòng tròn – By Bùi Quang Thái.")
 st.caption("Đảm bảo: mọi cặp người đều từng ngồi kề nhau (n lẻ: mỗi cặp đúng 1 lần; n chẵn: mỗi cặp ≥ 1 lần). App tự động Repair hoặc thêm ngày hoàn tất đến khi PASS ✅.")
 
 with st.sidebar:
