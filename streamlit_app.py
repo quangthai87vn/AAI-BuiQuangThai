@@ -210,7 +210,7 @@ with st.sidebar:
     max_extra_days = st.slider("Giới hạn ngày thêm tối đa", 0, 30, 10)
     show_circle = st.checkbox("Vẽ vòng tròn minh hoạ cho 1 ngày", value=True)
     day_to_plot = st.number_input("Chọn ngày để vẽ", min_value=1, value=1, step=1)
-    st.markdown("---"); st.caption("Made with ❤️ Streamlit")
+    st.markdown("---"); st.caption("Made with ❤️ Bui Quang Thai")
 
 # A) Init
 params = init_params(int(n))
