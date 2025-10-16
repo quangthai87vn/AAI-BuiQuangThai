@@ -1,4 +1,4 @@
-# AAI-BuiQuangThai - MSSV: 24752551 - Đại HọcCo6ng Nghiệp TP .HCM
+# AAI-BuiQuangThai - MSSV: 24752551 - Đại Học Công Nghiệp TP .HCM
 Trí Tuệ Nhân Tạo Nâng cao
 
 Mô tả bài toán
